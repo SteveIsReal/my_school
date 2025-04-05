@@ -1,2 +1,2 @@
-# Introduction
-This is my school project
+## Features
+- Hello world
