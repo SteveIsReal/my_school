@@ -1,6 +1,6 @@
 # Intruduce
 
-    This project might not look pretty as it should but as my side-project for studying django python, for me is so cool.
+This project might not look pretty as it should but as my side-project for studying django python, for me is so cool.
 
 # Features (I'm planned)
 
@@ -10,4 +10,4 @@
 - Assign students to class
 - Assign teacher to class
 
-    Well, this are what will be mainly about. If I have some time I would update this and will put more information here.
+Well, this are what will be mainly about. If I have some time I would update this and will put more information here.
