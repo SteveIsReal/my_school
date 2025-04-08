@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport">
+        <title>Register Student</title>
+    </head>
+    <body style="display:flex;flex-direction:column;padding:10px;margin:5px;align-items:center">
+        <div>
+            <h1>Register Student</h1>
+            <p>Please put student information below</p>
+
+        </div>
+        <form method="POST">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" value="SUBMIT">SUBMIT</button>
+        </form>
+    </body>
+</html>
